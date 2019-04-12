@@ -1,0 +1,5 @@
+/paddlepaddle/*
+/BERT/__pycache__/*
+/ERNIE_Raw/*
+/model/__pycache__/*
+/pytorch/pytorch_model.bin
